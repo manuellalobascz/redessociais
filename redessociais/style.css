@@ -5,3 +5,13 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+header{
+    background-color: burlywood;
+    text-align: center;
+}
+
+h1 { 
+   font-size: medium;
+   color: antiquewhite;
+}
