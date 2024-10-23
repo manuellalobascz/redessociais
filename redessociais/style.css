@@ -7,11 +7,11 @@ body {
 }
 
 header{
-    background-color: burlywood;
+    background-color: deeppink;
     text-align: center;
 }
 
 h1 { 
-   font-size: medium;
-   color: antiquewhite;
+   font-size: large;
+   color: blanchedalmond;
 }
