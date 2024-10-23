@@ -9,6 +9,7 @@ body {
 header{
     background-color: deeppink;
     text-align: center;
+    padding: 0px;
 }
 
 h1 { 
@@ -27,4 +28,5 @@ nav a {
     text-decoration: deeppink;
     color: bisque;
     margin: auto;
+    font-size: 0rem;
 }
