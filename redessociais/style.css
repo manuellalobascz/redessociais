@@ -43,4 +43,7 @@ footer {
     justify-content: center;
     background-color: deeppink;
     color: bisque;
+    width: 100%;
+    height: 3rem;
+    margin-top: 2rem;
 }
