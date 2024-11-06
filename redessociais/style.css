@@ -30,3 +30,17 @@ nav a {
     margin: auto;
     font-size: 0rem;
 }
+
+nav a:hover {
+    text-decoration: darksalmon;
+    transform: scale(0.90);
+    transition: transforme 0.1s ;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: deeppink;
+    color: bisque;
+}
